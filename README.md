@@ -1,4 +1,4 @@
-# Development of Machine Learning-based Dispatching Logic for Production Process Optimization
+# Development of Machine Learning-based Dispatching Model for Production Process Optimization
 
 - Development of an AI-based real-time scheduling engine in the APS (Advanced Planning & Scheduling) and RTD (Real-Time Dispatching) environment of the semiconductor/display industry
 
